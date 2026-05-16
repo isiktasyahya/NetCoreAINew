@@ -1,0 +1,28 @@
+# Build folders
+bin/
+obj/
+
+# User-specific files
+*.user
+*.suo
+
+# Visual Studio
+.vs/
+
+# App settings
+appsettings.json
+appsettings.Development.json
+
+# Environment files
+.env
+
+# Audio files
+*.wav
+*.mp3
+
+# Generated images
+*.jpg
+*.png
+
+# Logs
+*.log
